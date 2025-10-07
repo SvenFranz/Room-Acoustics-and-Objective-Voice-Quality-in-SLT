@@ -1,6 +1,10 @@
 <script type="text/javascript" async
  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
+
+## Publication for Citation
+Franz, S., Grewe, T., Meyer, B.T., Bitzer, J. (2025) Influence of Room Acoustics on Objective Voice Assessment Methods in the Context of Speech and Language Therapy . Proc. Interspeech 2025, 5308-5312, doi: 10.21437/Interspeech.2025-1851
+
 ## Measured Impulse Responses
 The audio files contain three consecutive, level-matched impulse responses of the measured therapy rooms, with the following assignment:
 
@@ -24,7 +28,7 @@ The audio files contain 30 seconds of recorded background noise from the examine
 - Channel 2: RODE WIRELESS PRO lavalier microphone
 - Channel 3: Motorola moto g84 5G (XT2347-2) smartphone microphone
 
-The last 5 characters of the file name correspond to the level offset to convert the noise from dB FS to dB SPL, where `80p01` represents a gain of 08.01 dB.
+The last 5 characters of the file name correspond to the level offset to convert the noise from dB FS to dB SPL, where `80p01` represents a gain of 80.01 dB.
 
 **Inst. 01:** [Room 01](Samples/Institution_01_Room_01_Noises_54p15.wav), [Room 02](Samples/Institution_01_Room_02_Noises_56p54.wav), [Room 03](Samples/Institution_01_Room_03_Noises_82p84.wav), [Room 04](Samples/Institution_01_Room_04_Noises_62p52.wav), [Room 05](Samples/Institution_01_Room_05_Noises_85p36.wav), [Room 06](Samples/Institution_01_Room_06_Noises_63p87.wav), [Room 07](Samples/Institution_01_Room_07_Noises_59p21.wav)  
 **Inst. 02:** [Room 01](Samples/Institution_02_Room_01_Noises_57p80.wav), [Room 02](Samples/Institution_02_Room_02_Noises_57p74.wav), [Room 03](Samples/Institution_02_Room_03_Noises_74p61.wav), [Room 04](Samples/Institution_02_Room_04_Noises_47p47.wav), [Room 05](Samples/Institution_02_Room_05_Noises_66p05.wav), [Room 06](Samples/Institution_02_Room_06_Noises_65p41.wav), [Room 07](Samples/Institution_02_Room_07_Noises_66p98.wav), [Room 08](Samples/Institution_02_Room_08_Noises_53p08.wav)  
