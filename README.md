@@ -5,6 +5,7 @@
 ## Publications
 - [Franz, S., Grewe, T., Meyer, B., Bitzer, J., 2026. Measurement and Analysis of Relevant Room Acoustic Parameters in Speech and Language Therapy Rooms and Evaluation of Their Influence on Objective Voice Quality Metrics. Journal of Voice. https://doi.org/10.1016/j.jvoice.2025.12.012](https://doi.org/10.1016/j.jvoice.2025.12.012)
 - [Franz, S., Grewe, T., Meyer, B., Bitzer, J., 2025. Influence of Room Acoustics on Objective Voice Assessment Methods in the Context of Speech and Language Therapy. Proc. Interspeech 2025, 5308-5312, https://doi.org/10.21437/Interspeech.2025-1851](https://doi.org/10.21437/Interspeech.2025-1851)
+- [Franz, S., Bitzer, J., Meyer, B., Grewe, T., 2026.​ Einfluss der Raumakustik auf objektive Stimmbewertungsverfahren im Kontext der logopädischen Diagnostik und Therapie. 54. dbl-Kongress, Weimar-](Publications/20260619_DBL_SvenFranz.pdf)
 
 ## Measured Impulse Responses
 The audio files contain three consecutive, level-matched impulse responses of the measured therapy rooms, with the following assignment:
